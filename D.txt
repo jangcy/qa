@@ -1,1 +1,2 @@
 Initial content of file D
+Approach 1: change to file D in git_1
