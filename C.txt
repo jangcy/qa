@@ -1,1 +1,2 @@
 Initial content of file C
+Approach 1: change to file C in git_1
