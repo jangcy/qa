@@ -1,3 +1,7 @@
 Initial content of file B
 Approach 2: change to file B in git_2
+<<<<<<< HEAD
 Approach 3: change to file B in git_1
+=======
+Approach 3: change to file B in git_2
+>>>>>>> git_2/master
